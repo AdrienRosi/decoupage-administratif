@@ -31,7 +31,7 @@ Commune::getOne('84007');
 
 ## Crédits
 
-- [@etalab]https://github.com/etalab/decoupage-administratif
+- [@etalab](https://github.com/etalab/decoupage-administratif)
 
 ## Licence
 Données : Licence Ouverte
