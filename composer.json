@@ -1,0 +1,19 @@
+{
+    "name": "etalab-wrapper/decoupage-administratif",
+    "description": "Wrapper PHP pour l'accès aux données concernant le découpage administratif français",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "EtalabWrapper\\DecoupageAdministratif\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adrien Rosi",
+            "email": "adrienrosi@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
